@@ -55,3 +55,21 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.DS_Store
+.metadata
+.settings
+*~
+*.DS_Store
+
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+*.iml
+*.iws
+*.ipr
+*.swp
+build/
+tmp/

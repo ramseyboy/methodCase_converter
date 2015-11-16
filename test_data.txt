@@ -1,0 +1,4 @@
+@Test
+public void test_update_dates_with_yesterday_checkin_and_today_checkout() throws Throwable {
+
+}
